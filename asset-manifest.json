@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alecbar/React-ToDo/static/css/main.f5d166d4.chunk.css",
+    "main.js": "/alecbar/React-ToDo/static/js/main.8e76803f.chunk.js",
+    "main.js.map": "/alecbar/React-ToDo/static/js/main.8e76803f.chunk.js.map",
+    "runtime-main.js": "/alecbar/React-ToDo/static/js/runtime-main.919e5394.js",
+    "runtime-main.js.map": "/alecbar/React-ToDo/static/js/runtime-main.919e5394.js.map",
+    "static/js/2.debffe2e.chunk.js": "/alecbar/React-ToDo/static/js/2.debffe2e.chunk.js",
+    "static/js/2.debffe2e.chunk.js.map": "/alecbar/React-ToDo/static/js/2.debffe2e.chunk.js.map",
+    "index.html": "/alecbar/React-ToDo/index.html",
+    "precache-manifest.0df321e20d7cc29e803323b43206a73c.js": "/alecbar/React-ToDo/precache-manifest.0df321e20d7cc29e803323b43206a73c.js",
+    "service-worker.js": "/alecbar/React-ToDo/service-worker.js",
+    "static/css/main.f5d166d4.chunk.css.map": "/alecbar/React-ToDo/static/css/main.f5d166d4.chunk.css.map",
+    "static/js/2.debffe2e.chunk.js.LICENSE.txt": "/alecbar/React-ToDo/static/js/2.debffe2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.919e5394.js",
+    "static/js/2.debffe2e.chunk.js",
+    "static/css/main.f5d166d4.chunk.css",
+    "static/js/main.8e76803f.chunk.js"
+  ]
+}
