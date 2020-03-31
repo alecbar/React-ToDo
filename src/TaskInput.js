@@ -17,11 +17,11 @@ class TaskInput extends Component{
 
     handleSubmit(e) {
         // Handle form submit
+        e.preventDefault()
         if(this.state.value.trim() === ""){
             alert("Please enter a task!")
         }
         else{
-            e.preventDefault()
             this.props.onNewTask(this.state.value)
             this.setState({value: ""})
         }
